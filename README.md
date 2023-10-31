@@ -4,22 +4,6 @@ This repo lists the scripts for the paper "Identification of 4FGL uncertain sour
 
 ## File Tree
 
-`|-- FD_ASE.py`
-`|-- README.md`
-`|-- attribute_params.py`
-`|-- datasets`
-`|   |-- 4FGL_DR3_Data_A.xlsx`
-`|   |-- 4FGL_DR3_Data_B.xlsx`
-`|-- models.py`
-`|-- step0_preprocessing_4FGL_data.ipynb`
-`|-- step1_split_data.ipynb`
-`|-- step2_analysis_FDIDWT_iwt.m`
-`|-- step2_attributes_analysis.ipynb`
-`|-- step3_training.ipynb`
-`|-- utils.py`
-
-
-
 - `FD_ASE.py`: the functions of FDASE algorithms
 - `README.md`: this file
 - `attribute_params.py`: the settings of attributes after attribute analysis
